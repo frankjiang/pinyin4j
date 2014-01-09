@@ -1,4 +1,4 @@
 pinyin4j
 ========
 
-A library for operating comma-seperate value files.
+A simply utility for calling Pinyin4J™ framework.
